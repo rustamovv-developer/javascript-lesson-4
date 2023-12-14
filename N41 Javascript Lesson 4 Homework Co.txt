@@ -1,0 +1,6 @@
+N41 Javascript Lesson 4 Homework Conspect
+
+Biz 4- darsda scopelarni o`tdik. bu dasturning bir qismida o`zgaruvchilarni o`zini tutishi. 5xil scope bor bularga global block local module lexical. var va let ni farqini ko`rdik var bu global scope uchun ishlab chiqarilgan o`zgaruvchi let esa block scope uchun ishlab chiqarilgan o`zgaruvchi. loop ni o`tdik. loop bu xalqa doimiy tarzda aylanganligi uchunham loop dep nomlangan bu takrorkanuvchi algoritmlarga yordam beradi. loop oson kalkulatsiya qilishga yordam beradi. loop dry ni ta`minlashga yordam beradi. loopni 3ta turi bor for - parametrli while - sharti oldin tekshiriladi do while - sharti keyin tekshiriladigani. for har bir for ichida 2ta semocolon bo`lishi shart va hammasida initialazier condition va iterator bo`ladi. for hich narsasiz yozsa ham boladi faqat aytilgandek 2ta semicolon bo`lish shart. 
+
+					Rustamovv xamidullox
+						Baxodir o`g`li
